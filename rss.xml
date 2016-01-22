@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Holzi]]></title>
         <description><![CDATA[Holzi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/holzi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 05:30:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 05:59:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/holzi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SOFA SURFERS - SCRAMBLES, ANTHEMS AND ODYSSEYS]]></title>
+            <description><![CDATA[<article><h1>SOFA SURFERS - SCRAMBLES, ANTHEMS AND ODYSSEYS</h1><p>Tracklist: A01 - GRASS UNDER YOUR FEET A02 - BEYONDER GIRL A03 - BREAD AND CIRCUSES feat. Soulcat E-Phife B04 - MOST DANGEROUS MAN ALIVE B05 - SCRAMBLE B06 - PARANOID TRIGGERFINGER C07 - WOODY'S BALLAD feat. Issi Honi C08 - MONGREL C09 - RAVEN-US D10 - SKINS feat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f115350ffe017947c889c9fa65a56674c35fbe3.jpg"></article>]]></description>
+            <link>http://sofasurfers.info/sao_vinyl_cd.htm</link>
+            <guid isPermaLink="false">a4f43647-d57d-4681-ab95-81c77a5dd394</guid>
+            <pubDate>Fri, 22 Jan 2016 05:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefineda357d260-ff09-470f-9cfe-5125b009b578/index.html</link>
+            <link>https://thegrid.ai/holzi/a357d260-ff09-470f-9cfe-5125b009b578/index.html</link>
             <guid isPermaLink="false">a357d260-ff09-470f-9cfe-5125b009b578</guid>
             <pubDate>Fri, 22 Jan 2016 05:30:43 GMT</pubDate>
         </item>
