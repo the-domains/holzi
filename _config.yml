@@ -23,6 +23,6 @@ color:
     - '#a9371a'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.25
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
