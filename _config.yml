@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Test
+    url: 'http://www.borntobebackstage.com/'
+    type: external
 favicon: null
 title: Yeah!
 description: Awesome
